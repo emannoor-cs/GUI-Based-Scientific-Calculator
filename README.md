@@ -9,7 +9,7 @@
 ---
 
 ## Screenshot
-<img width="562" height="755" alt="image" src="https://github.com/user-attachments/assets/cd5c64e3-e445-41fa-ba02-c64e0dc584cb" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/cd5c64e3-e445-41fa-ba02-c64e0dc584cb" />
 
 ---
 
